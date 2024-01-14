@@ -22,3 +22,18 @@ SSRS
 
 In addition to Power BI, I specialize in designing enterprise-level reports using SQL Server Reporting Services (SSRS). My SSRS work includes generating drill-down reports, parameterized reports, linked reports, sub-reports, matrix dynamics, and filters.
 I have experience creating ad-hoc reports and data-driven subscription reports, showcasing versatility in meeting diverse reporting needs.
+
+Existing Report Problem:
+
+The primary challenge with the existing data management system stemmed from the manual entry of information into the Excel file on a daily basis. Each month was assigned its dedicated tab within the file, and planned hours data were segregated into a separate Excel file. The sheer volume of data became a bottleneck, requiring an extensive 4 to 6 hours daily for data refresh. Consequently, comparing employee data with the previous year posed a significant difficulty due to the cumbersome nature of the process.
+
+Revised Version:
+
+The solution to enhance the reporting system involved consolidating the report by merging related metrics into a unified visualization. This strategic approach aimed to present the end user with a more focused and relevant set of information at a glance. The implementation included robust data modelling in SQL to minimize processing at the report level, resulting in a considerable reduction in the overall data model's complexity.
+The introduction of a dynamic date range filter allowed users to view data within their selected range, enhancing flexibility and customization. Additionally, combining the comparison of Actual vs. Planned and Actual vs. Target in a single view streamlined decision-making for management, enabling quick insights into business performance.
+While not immediately visible, the solution brought about a significant performance improvement and heightened responsiveness of interactions within the report. Features such as date range filtering and slicing now operate more efficiently, contributing to an overall enhanced user experience.
+
+![image](https://github.com/kumarvirek/Power-BI-Portfolio/assets/156269260/130a03f7-4a50-43b2-8866-5c24d312e753)
+
+
+
