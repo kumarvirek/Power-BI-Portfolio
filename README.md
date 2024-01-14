@@ -37,7 +37,7 @@ The sheer volume of data became a bottleneck, requiring an extensive 4 to 6 hour
 
 **Revised Version:**
 
-![image](https://github.com/kumarvirek/Power-BI-Portfolio/assets/156269260/130a03f7-4a50-43b2-8866-5c24d312e753)
+![Resource_Summary_Solution](https://github.com/kumarvirek/Power-BI-Portfolio/assets/156269260/2e92a16c-8a2e-43c3-b0a7-b3bc49ff3fba)
 
 The solution to enhance the reporting system involved consolidating the report by merging related metrics into a unified visualization. This strategic approach aimed to present the end user with a more focused and relevant set of information at a glance. The implementation included robust data modelling in SQL to minimize processing at the report level, resulting in a considerable reduction in the overall data model's complexity.
 
