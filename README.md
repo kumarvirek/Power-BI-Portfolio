@@ -37,13 +37,11 @@ The sheer volume of data became a bottleneck, requiring an extensive 4 to 6 hour
 
 **Revised Version:**
 
-![Resource_Summary_Solution](https://github.com/kumarvirek/Power-BI-Portfolio/assets/156269260/2e92a16c-8a2e-43c3-b0a7-b3bc49ff3fba)
+![Recording 2024-01-16 124805_v2](https://github.com/kumarvirek/Power-BI-Portfolio/assets/156269260/19713ac9-c562-446b-8318-f6ed8b266b86)
 
 The solution to enhance the reporting system involved consolidating the report by merging related metrics into a unified visualization. This strategic approach aimed to present the end user with a more focused and relevant set of information at a glance. The implementation included robust data modelling in SQL to minimize processing at the report level, resulting in a considerable reduction in the overall data model's complexity.
 
-The introduction of a dynamic date range filter allowed users to view data within their selected range, enhancing flexibility and customization. Additionally, combining the comparison of Actual vs. Planned and Actual vs. Target in a single view streamlined decision-making for management, enabling quick insights into business performance.
-
-While not immediately visible, the solution brought about a significant performance improvement and heightened responsiveness of interactions within the report. Features such as date range filtering and slicing now operate more efficiently, contributing to an overall enhanced user experience.
+The introduction of a dynamic date range filter allowed users to view data within their selected range, enhancing flexibility and customization. Additionally, combining the comparison of Actual vs. Planned and Actual vs. Target in a single view streamlined decision-making for management, enabling quick insights into business performance. The solution brought about a significant performance improvement and heightened responsiveness of interactions within the report. 
 
 
 
